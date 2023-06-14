@@ -1,0 +1,113 @@
+.clr{
+	color:green;	
+}
+.txt{
+	background-color:yellow;
+	color:red;
+}
+#text{
+	border:5px solid red;
+}
+#text1{
+	border:10px dotted blue;
+}
+#text2{
+	border:12px dashed yellow;
+}
+#text3{
+	border: 15px double darkcyan;
+}
+#text4{
+	border: 17px ridge grey;
+}
+#text5{
+	border: 18px inset pink;
+}
+#text6{
+	border: 20px outset darkblue;
+}
+#text7{
+	border-top: 3px solid red;
+	border-bottom: 15px ridge blue;
+	border-right: 10px dashed darkblue;
+	border-left: 5px dotted green;
+}
+#txt1{
+	text-align:left;
+}
+#txt2{
+	text-align:right;
+}
+#txt3{
+	text-align:center;
+}
+#txt4{
+	text-align:justify;
+}	
+#txt5{
+	text-align-last:left;
+}	
+#txt6{
+	text-align-last:right;
+}	
+#txt7{
+	text-align-last:center;
+}
+#txt8{
+	text-align-last:justify;
+}
+#txt9{
+	direction:ltr;
+	unicode-bidi:bidi-override;
+}
+#txt10{
+	direction:rtl;
+	unicode-bidi:bidi-override;
+}
+#txt11{
+	vertical-align: text-bottom;
+}
+#txt12{
+	text-transform:uppercase;
+}
+#txt13{
+	text-transform:lowercase;
+}
+#txt14{
+	text-transform:capitalize;
+}
+#txt15{
+	text-indent:50px;
+}
+#txt16{
+	letter-spacing:10px;
+}
+#txt17{
+	word-spacing:10px;
+}
+#txt18{
+	line-height:3;
+}
+#txt19{
+	white-space:wrap;
+}
+.dec{
+	text-decoration: overline blue dashed 3px;
+}
+.dec1{
+	text-decoration: underline red dotted 6px;
+}
+.dec2{
+	text-decoration: line-through solid 3px;
+}
+.dec3{
+	text-decoration: underline overline yellow wavy 5px;
+}
+.shadow{
+	text-shadow:-20px -10px 2px red, 20px 10px 2px green;
+}
+.shadow1{
+	border: 1px solid;
+	padding: 10px;
+	box-shadow:25px -12px 5px red, -12px 15px 0px green;
+}
